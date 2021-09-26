@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi 👋, I'm Elvis Omoro</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Elvis Omoro</h1>
 <h3 align="center">A passionate full stack developer from Kenya.</h3>
 
 <p align="left"> <a href="https://twitter.com/bake_baller" target="blank"><img src="https://img.shields.io/twitter/follow/bake_baller?logo=twitter&style=for-the-badge" alt="bake_baller" /></a> </p>
