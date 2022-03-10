@@ -8,15 +8,15 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Covid-19 Facemask Detector**
+- 🔭 I’m currently working on **Laravel with react js**
 
-- 🌱 I’m currently learning **Typescript and Node Js**
+- 🌱 I’m currently learning **Typescript and Next Js**
 
 - 👯 I’m looking to collaborate on **Opensource Projects**
 
 - 🤝 I’m looking for help with **APIs Intergration**
 
-- 💬 Ask me about **laravel, php, react js**
+- 💬 Ask me about **wordpress, laravel, php, react js**
 
 - 📫 How to reach me **iamomoroit@gmail.com**
 
