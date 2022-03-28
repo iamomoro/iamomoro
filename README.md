@@ -8,9 +8,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Laravel with react js**
+- 🔭 I’m currently working on **Django with React JS**
 
-- 🌱 I’m currently learning **Typescript and Next Js**
+- 🌱 I’m currently learning **Django and Next Js**
 
 - 👯 I’m looking to collaborate on **Opensource Projects**
 
