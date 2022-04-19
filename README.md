@@ -32,7 +32,8 @@ const omoro = {
 
 <br/><br/>
 
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamomoro&show_icons=true)](https://github.com/iamomoro)
+ <a href="https://github.com/1Nelsonel/github-readme-stats"><img alt="1Nelsonel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Nelsonel&langs_count=8&count_private=true&layout=radical&theme=radical&hide_border=true&bg_color=0D1117" /></a>
+<p/>
 
 <br/>
 
@@ -51,9 +52,7 @@ const omoro = {
 
 
 <h3> 🤝🏻 Connect with Me </h3>
-
 <br>
-
 <p align="center">
 
 <a href="https://twitter.com/bake_baller"><img alt="Twitter" src="https://img.shields.io/twitter/follow/bake_baller?style=social"></a>
