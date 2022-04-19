@@ -1,4 +1,4 @@
-### Hi there 👋<h2> I'm Omoro </h2>
+### Hi there 👋<h2> I'm Elvis Omoro </h2>
 
   ```javascript
 const omoro = {
