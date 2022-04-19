@@ -32,8 +32,7 @@ const omoro = {
 
 <br/><br/>
 
- <a href="https://github.com/1Nelsonel/github-readme-stats"><img alt="1Nelsonel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Nelsonel&langs_count=8&count_private=true&layout=radical&theme=radical&hide_border=true&bg_color=0D1117" /></a>
-<p/>
+[![omoro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamomoro&show_icons=true)](https://github.com/iamomoro)
 
 <br/>
 
