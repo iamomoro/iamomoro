@@ -1,24 +1,27 @@
-### Hi there 👋<h2> I'm Omoro/h2>
+### Hi there 👋<h2> I'm Omoro </h2>
 
   ```javascript
-const charles = {
+const omoro = {
     pronouns: "He" | "Him",
-    askMeAbout: ["web dev", "tech", "game"],
+    askMeAbout: ["web dev", "app dev", "tech"],
+    code: [Javascript, Typescript, HTML, CSS ],
     technologies: {
         frontEnd: {
-            js: ["Vue", "React", "Angular"],
-            css: ["bootstrap", "sass"]
+            js: ["Vue", "React", "Angular", "Next"],
+            css: ["bootstrap", "tailwind"]
         },
-        backEnd: ["Java", "PHP"],
-        databases: ["MySql", "oracle"],
-    }
+        backEnd: ["Python", "PHP", "Node js, Express js & Nest js"],
+        mobileApp: ["Flutter"]
+        databases: ["MySql", "Mongo DB", "Oracle"],
+    },
+     architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
 };
 ```
 
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
+- 🔧 &nbsp; AWS | Docker🐳 | Firebase | Flask
 
 <hr>
 
