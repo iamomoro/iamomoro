@@ -11,10 +11,14 @@ const omoro = {
             css: ["bootstrap", "tailwind"]
         },
         backEnd: ["Python", "PHP", "Node js, Express js & Nest js"],
-        mobileApp: ["Flutter"]
-        databases: ["MySql", "Mongo DB", "Oracle"],
+        mobileDev: ["Flutter"],
+        databases: ["MySql", "Mongo DB",  "Postgres"],
     },
      architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
+     organsations: [
+     "Devs & Graphics KE",
+     "Bean Code",
+  ]
 };
 ```
 
