@@ -21,10 +21,11 @@ const omoro = {
 };
 ```
 
+<h3>🛠 Currently Learning:</h3>
 
-<!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+- 🔧 &nbsp; AWS | Docker🐳 | Firebase | Flask
 
+<hr>
 
 
 <br/><br/>
@@ -41,6 +42,10 @@ const omoro = {
 
 <br><br>
 
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+<br>
 
 
 <hr>
