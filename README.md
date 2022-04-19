@@ -22,24 +22,20 @@ const omoro = {
 ```
 
 
-<h3>🛠 To Learn</h3>
-
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | Flask
-
-<hr>
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 
 
 <br/><br/>
 
 [![omoro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamomoro&show_icons=true)](https://github.com/iamomoro)
+
+<br/>
+
+<br/>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamomoro&show_icons=true)
-<br/>
-
-<br/>
-<!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-
 
 
 
