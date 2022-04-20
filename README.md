@@ -31,18 +31,13 @@ const omoro = {
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamomoro&&theme=github-dark-blue&langs_count=8)](https://github.com/iamomoro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamomoro&langs_count=8&count_private=true&layout=radical&theme=radical&hide_border=true&bg_color=0D1117")](https://github.com/iamomoro/github-readme-stats)
 
 <hr>
 
-
-<br><br>
-
+<h3>Programming Jokes?<h3>
 <!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-
-<br>
-
 
 <hr>
 
