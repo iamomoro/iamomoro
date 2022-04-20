@@ -38,7 +38,7 @@ const omoro = {
 <h3>Programming Jokes?<h3>
 <!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-
+ <br>
 <hr>
 
 <h3> 🤝🏻 Connect with Me </h3>
