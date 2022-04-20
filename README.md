@@ -30,7 +30,7 @@ const omoro = {
 
 <br/><br/>
 
-[![omoro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamomoro&show_icons=true)](https://github.com/iamomoro)
+![Omoro's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=github_dark&show_icons=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iamomoro&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <br/>
