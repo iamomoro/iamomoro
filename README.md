@@ -42,7 +42,6 @@ const omoro = {
 <hr>
 
 <h3> 🤝🏻 Connect with Me </h3>
-<br>
 <p align="center">
 
 <a href="https://twitter.com/bake_baller"><img alt="Twitter" src="https://img.shields.io/twitter/follow/bake_baller?style=social"></a>
