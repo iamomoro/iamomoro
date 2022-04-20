@@ -34,7 +34,7 @@ const omoro = {
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamomoro)](https://github.com/iamomoro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamomoro&langs_count=8)](https://github.com/iamomoro/github-readme-stats)
 
 
 
