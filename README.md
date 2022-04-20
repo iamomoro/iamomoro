@@ -41,8 +41,6 @@ const omoro = {
 
 <hr>
 
-
-
 <h3> 🤝🏻 Connect with Me </h3>
 <br>
 <p align="center">
