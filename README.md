@@ -61,21 +61,11 @@ const omoro = {
 
 <a href="mailto:iamomoroit@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-:iamomoroit@gmail.com.com-blue?style=flat-square&logo=gmail"></a>
 
-</p>
-
-<br/>
-<br/>
-<hr>  
-
-
-
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=iamomoro.iamomoro)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
-
-
-
-
-<hr>
+</p>
+<br/>
+ <hr>
 <a href="https://github.com/iamomoro/github-readme-activity-graph"><img alt="iamomoroActivity Graph" src="https://activity-graph.herokuapp.com/graph?username=iamomoro&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
