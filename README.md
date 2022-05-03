@@ -55,7 +55,7 @@ const omoro = {
 </p>
 <br/>
  <hr>
-<a href="https://github.com/iamomoro/github-readme-activity-graph"><img alt="iamomoroActivity Graph" src="https://activity-graph.herokuapp.com/graph?username=iamomoro&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/iamomoro/github-readme-activity-graph"><img alt="iamomoroActivity Graph" src="https://activity-graph.herokuapp.com/graph?username=iamomoro&count_private=true&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
 
