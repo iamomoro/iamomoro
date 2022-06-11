@@ -11,7 +11,7 @@ const omoro = {
             css: ["bootstrap", "tailwind", "material-ui"]
         },
         backEnd: ["Python", "PHP", "Node js, Express js & Nest js"],
-        Frameworks: ["Laravel", "Django" ]
+        Frameworks: ["Laravel", "Django" ],
         mobileDev: ["Flutter"],
         databases: ["MySql", "Mongo DB",  "Postgres"],
     },
