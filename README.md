@@ -15,7 +15,7 @@ const omoro = {
         mobileDev: ["Flutter"],
         databases: ["MySql", "Mongo DB",  "Postgres"],
     },
-     architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
+     architecture: ["Serverless Architecture", "microservices", "Event-driven", "Single page applications"],
      organsations: ["Devs & Graphics KE",
                     "Bean Code",
   ]
