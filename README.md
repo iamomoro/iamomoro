@@ -12,7 +12,7 @@ const omoro = {
         },
         backEnd: ["Python", "PHP", "Node js, Express js & Nest js"],
         frameWork: ["Laravel", "Django" ],
-        mobileDev: ["Flutter"],
+        mobileDev: ["Flutter", "React Native"],
         databases: ["MySql", "Mongo DB",  "Postgres"],
     },
      architecture: ["Serverless Architecture", "microservices", "Event-driven", "Single page applications"],
