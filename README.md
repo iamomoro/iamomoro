@@ -32,7 +32,7 @@ const omoro = {
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamomoro&count_private=true&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <hr>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamomoro&layout=compact)](https://github.com/iamomoro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
 
 <h3>Programming Jokes?<h3>
