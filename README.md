@@ -33,8 +33,6 @@ const omoro = {
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamomoro&langs_count=8&count_private=true&theme=github_dark&hide_border=false&bg_color=#0D1117)](https://github.com/iamomoro/github-readme-stats)
-
 <hr>
 
 <h3>Programming Jokes?<h3>
