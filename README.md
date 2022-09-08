@@ -36,9 +36,9 @@ const omoro = {
 
 <hr>
 
- <a href="https://github.com/iamomoro/github-readme-stats"><img alt="Omoro Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamomoro&hide=html&langs_count=10&count_private=true&theme=github_dark" /></a>
+[ <a href="https://github.com/iamomoro/github-readme-stats"><img alt="Omoro Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamomoro&hide=html&langs_count=10&count_private=true&theme=github_dark" /></a>
  
-<hr>
+<hr>](url)
 
 <h3>Programming Jokes?<h3>
 <!-- HTML -->
