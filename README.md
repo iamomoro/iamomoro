@@ -32,7 +32,7 @@ const omoro = {
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamomoro&layout=compact&count_private=true&langs_count=10&theme=github-dark-blue)](https://github.com/iamomoro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamomoro&layout=compact&langs_count=10&theme=github-dark-blue)](https://github.com/iamomoro/github-readme-stats)
 
 <hr>
  <a href="https://github.com/iamomoro/github-readme-stats"><img alt="Omoro Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamomoro&hide=html,vue&langs_count=10&count_private=true&theme=github_dark" /></a>
