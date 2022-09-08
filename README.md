@@ -24,7 +24,7 @@ const omoro = {
 
 <h3>🛠 Currently Learning:</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | Flask
+- 🔧 &nbsp; AWS | Docker🐳 | Firebase | Flask -
 
 <hr>
 
@@ -32,10 +32,12 @@ const omoro = {
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamomoro&count_private=true&layout=compact&langs_count=10&theme=github-dark&hide=html)](https://github.com/iamomoro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamomoro&count_private=false&layout=compact&langs_count=10&theme=github-dark&hide=html)](https://github.com/iamomoro/github-readme-stats)
 
 <hr>
+
  <a href="https://github.com/iamomoro/github-readme-stats"><img alt="Omoro Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamomoro&hide=html,vue&langs_count=10&count_private=true&theme=github_dark" /></a>
+ 
 <hr>
 
 <h3>Programming Jokes?<h3>
