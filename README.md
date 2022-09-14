@@ -10,7 +10,7 @@ const omoro = {
             js: ["Vue", "React", "Angular", "Next"],
             css: ["bootstrap", "tailwind", "material-ui"]
         },
-        backEnd: ["Python", "PHP", "Node js Express js & Nest js"],
+        backEnd: ["Python", "PHP", "Node js Express js"],
         frameWork: ["Laravel", "Django" ],
         mobileDev: ["Flutter", "React Native"],
         databases: ["MySql", "Mongo DB", "Postgres"],
