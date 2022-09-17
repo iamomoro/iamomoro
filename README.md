@@ -4,7 +4,7 @@
 const omoro = {
     pronouns: "He" | "Him",
     askMeAbout: ["web dev", "app dev", "tech"],
-    code: [Javascript, Typescript, HTML, CSS ],
+    code: [Javascript, Typescript, HTML],
     technologies: {
         frontEnd: {
             js: ["Vue", "React", "Angular", "Next"],
