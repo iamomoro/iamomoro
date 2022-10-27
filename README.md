@@ -16,9 +16,7 @@ const omoro = {
         databases: ["MySql", "Mongo DB", "Postgres"],
     },
      architecture: ["Serverless Architecture", "microservices", "Event-driven", "Single page applications"],
-     organsations: ["Devs & Graphics KE",
-                    "Bean Code",
-  ]
+     organsations: ["Devs & Graphics KE"]
 };
 ```
 
