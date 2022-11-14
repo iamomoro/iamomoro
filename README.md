@@ -2,7 +2,6 @@
 
   ```javascript
 const omoro = {
-    pronouns: "He" | "Him",
     askMeAbout: ["web dev", "app dev", "tech"],
     code: [Javascript, Typescript, HTML],
     technologies: {
