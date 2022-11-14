@@ -3,7 +3,7 @@
   ```javascript
 const omoro = {
     askMeAbout: ["web dev", "app dev", "tech"],
-    code: [javascript, typescript, HTML],
+    code: ["javascript", "typescript", "HTML", "css"],
     technologies: {
         frontEnd: {
             js: ["Vue", "React", "Angular", "Next"],
