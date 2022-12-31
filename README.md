@@ -7,7 +7,7 @@ const omoro = {
     technologies: {
         frontEnd: {
             js: ["Vue", "React", "Angular", "Next"],
-            css: ["bootstrap", "tailwind", "material-ui"]
+            css: ["bootstrap", "tailwind", "material-ui", "chakra-ui"]
         },
         backEnd: ["Python", "PHP", "Node js Express js"],
         frameWork: ["Laravel", "Django" ],
