@@ -21,7 +21,7 @@ const omoro = {
 
 <h3>🛠 Currently Learning:</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | Flask -
+- 🔧 &nbsp; AWS | Docker🐳 | Firebase | Flask 
 
 <hr>
 
