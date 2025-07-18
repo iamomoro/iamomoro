@@ -1,5 +1,6 @@
-# 👋 Hello, I'm Elvis Omoro  
-## 🚀 Full-Stack Engineer | Systems Architect | Cloud Enthusiast | Tech Consultant  
+# 👋 Hello, I'm Elvis Omoro
+
+## 🚀 Full-Stack Engineer | Systems Architect | Cloud Enthusiast | Tech Consultant
 
 I'm a passionate and results-driven developer with deep experience in crafting high-performance web and mobile applications, architecting scalable backend systems, and deploying modern cloud-native infrastructures. Whether it's elegant UIs, robust APIs, or event-driven microservices — I thrive in turning ideas into production-ready technology.
 
@@ -32,49 +33,58 @@ const omoro = {
   affiliations: ["Devs & Graphics KE"],
   currentlyLearning: ["Kubernetes", "AI Integrations", "Advanced DevSecOps"]
 };
+```
 
-📌 Areas of Interest
-🛠 Building Developer Tooling & APIs
+---
 
-🌐 Civic Tech & Smart Infrastructure Solutions
+## 📌 Areas of Interest
 
-🧩 Automating Business Workflows
+* 🛠 Building Developer Tooling & APIs
+* 🌐 Civic Tech & Smart Infrastructure Solutions
+* 🧩 Automating Business Workflows
+* 🎓 Mentorship & Tech Leadership
+* 🤖 AI-Augmented Development
 
-🎓 Mentorship & Tech Leadership
+---
 
-🤖 AI-Augmented Development
+## 🧠 Currently Learning
 
-<h3>🛠 Currently Learning:</h3>
+* 🔧   AWS | Docker 🐳 | Firebase | Flask
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | Flask 
+---
 
-<hr>
+## 📊 GitHub Stats & Activity
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamomoro&count_private=true&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamomoro\&count_private=true\&theme=github-dark-blue\&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<hr>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamomoro\&count_private=true\&layout=compact\&langs_count=10\&hide=html)](https://github.com/iamomoro/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamomoro&countprivate=true&layout=compact&langs_count=10&hide=html)](https://github.com/iamomoro/github-readme-stats)
+---
 
-<hr>
+## 🤝🏾 Connect with Me
 
-<!-- <a href="https://github.com/iamomoro/github-readme-stats"><img alt="Omoro Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamomoro&hide=html&langs_count=10&count_private=true&theme=github_dark_blue" /></a>
- 
-<hr>
- -->
-
-
-<h3> 🤝🏻 Connect with Me </h3>
 <p align="center">
 
-<a href="https://twitter.com/bake_baller"><img alt="Twitter" src="https://img.shields.io/twitter/follow/bake_baller?style=social"></a>
+<a href="https://twitter.com/bake_baller">
+  <img alt="Twitter" src="https://img.shields.io/twitter/follow/bake_baller?style=social">
+</a>
 
-<a href="https://www.instagram.com/iamomoroit/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-iamomoroit-black?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/iamomoroit/">
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-iamomoroit-black?style=flat-square&logo=instagram">
+</a>
 
-<a href="mailto:iamomoroit@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-:iamomoroit@gmail.com.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:iamomoroit@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/Email-iamomoroit@gmail.com-blue?style=flat-square&logo=gmail">
+</a>
 
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=iamomoro.iamomoro)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+<br/>
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=iamomoro.iamomoro" alt="Visitor count" />
+<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30"/>
 
 </p>
 
+---
 
+> “Build with intent. Architect with clarity. Ship with confidence.”
+> — **Elvis Omoro**
