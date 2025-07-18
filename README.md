@@ -33,6 +33,16 @@ const omoro = {
   currentlyLearning: ["Kubernetes", "AI Integrations", "Advanced DevSecOps"]
 };
 
+📌 Areas of Interest
+🛠 Building Developer Tooling & APIs
+
+🌐 Civic Tech & Smart Infrastructure Solutions
+
+🧩 Automating Business Workflows
+
+🎓 Mentorship & Tech Leadership
+
+🤖 AI-Augmented Development
 
 <h3>🛠 Currently Learning:</h3>
 
