@@ -1,23 +1,38 @@
-### Hello👋 <h2> I'm Elvis Omoro </h2>
+# 👋 Hello, I'm Elvis Omoro  
+## 🚀 Full-Stack Engineer | Systems Architect | Cloud Enthusiast | Tech Consultant  
 
-  ```javascript
+I'm a passionate and results-driven developer with deep experience in crafting high-performance web and mobile applications, architecting scalable backend systems, and deploying modern cloud-native infrastructures. Whether it's elegant UIs, robust APIs, or event-driven microservices — I thrive in turning ideas into production-ready technology.
+
+---
+
+```javascript
 const omoro = {
-    askMeAbout: ["web dev", "app dev", "system tech"],
-    code: ["javascript", "typescript", "HTML", "css"],
-    technologies: {
-        frontEnd: {
-            js: ["Vue", "React", "Angular", "Next"],
-            css: ["bootstrap", "tailwind", "material-ui", "chakra-ui"]
-        },
-        backEnd: ["Python", "PHP", "Node js Express js"],
-        frameWork: ["Laravel", "Django" ],
-        mobileDev: ["Flutter", "React Native"],
-        databases: ["MySql", "Mongo DB", "Postgres"],
+  expertise: ["Web Development", "Mobile Apps", "Systems Architecture", "Technical Leadership"],
+  languages: ["JavaScript", "TypeScript", "Python", "PHP", "HTML", "CSS"],
+  technologies: {
+    frontEnd: {
+      frameworks: ["Vue.js", "React", "Angular", "Next.js"],
+      styling: ["Tailwind CSS", "Bootstrap", "Material UI", "Chakra UI"]
     },
-     architecture: ["Serverless Architecture", "microservices", "Event-driven", "Single page applications"],
-     organsations: ["Devs & Graphics KE"]
+    backEnd: {
+      runtimes: ["Node.js", "Express"],
+      frameworks: ["Laravel", "Django", "Flask"]
+    },
+    mobile: ["Flutter", "React Native"],
+    databases: ["PostgreSQL", "MySQL", "MongoDB"],
+  },
+  architecture: [
+    "Microservices",
+    "Serverless",
+    "Event-Driven Systems",
+    "REST & GraphQL APIs",
+    "Single Page Applications (SPA)"
+  ],
+  cloudDevOps: ["AWS", "Firebase", "Docker", "CI/CD"],
+  affiliations: ["Devs & Graphics KE"],
+  currentlyLearning: ["Kubernetes", "AI Integrations", "Advanced DevSecOps"]
 };
-```
+
 
 <h3>🛠 Currently Learning:</h3>
 
