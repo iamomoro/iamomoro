@@ -1,90 +1,248 @@
-# 👋 Hello, I'm Elvis Omoro
+# Hi, I'm Elvis Omoro
 
-## 🚀 Full-Stack Engineer | Systems Architect | Cloud Enthusiast | Tech Consultant
+### Full-Stack Engineer | Systems Architect | Cloud and DevOps Engineer | Technical Consultant
 
-I'm a passionate and results-driven developer with deep experience in crafting high-performance web and mobile applications, architecting scalable backend systems, and deploying modern cloud-native infrastructures. Whether it's elegant UIs, robust APIs, or event-driven microservices — I thrive in turning ideas into production-ready technology.
+I design, build, deploy, and maintain production-grade digital products.
+
+My work spans full-stack development, enterprise application architecture, microservices, cloud infrastructure, DevOps automation, API integrations, analytics platforms, and technical consulting.
+
+I specialise in turning complex business requirements into secure, scalable, and maintainable systems. I work across the complete product lifecycle, from requirements analysis and system architecture to implementation, deployment, production support, and continuous improvement.
 
 ---
 
+## What I Do
+
+* Architect scalable web, mobile, and enterprise applications
+* Design and implement microservices-based systems
+* Build multi-tenant SaaS platforms and internal business systems
+* Develop secure REST, GraphQL, webhook, and event-driven APIs
+* Build analytics dashboards, reporting engines, and data platforms
+* Implement Docker-based infrastructure and CI/CD pipelines
+* Integrate third-party services, payment platforms, and external APIs
+* Modernise, maintain, and support production applications
+* Translate business requirements into technical delivery plans
+* Lead products from initial concept to production rollout
+
+---
+
+## Core Technology Stack
+
 ```javascript
 const omoro = {
-  expertise: ["Web Development", "Mobile Apps", "Systems Architecture", "Technical Leadership"],
-  languages: ["JavaScript", "TypeScript", "Python", "PHP", "HTML", "CSS"],
-  technologies: {
-    frontEnd: {
-      frameworks: ["Vue.js", "React", "Angular", "Next.js"],
-      styling: ["Tailwind CSS", "Bootstrap", "Material UI", "Chakra UI"]
-    },
-    backEnd: {
-      runtimes: ["Node.js", "Express"],
-      frameworks: ["Laravel", "Django", "Flask"]
-    },
-    mobile: ["Flutter", "React Native"],
-    databases: ["PostgreSQL", "MySQL", "MongoDB"],
+  roles: [
+    "Full-Stack Engineer",
+    "Systems Architect",
+    "Cloud and DevOps Engineer",
+    "Technical Consultant"
+  ],
+
+  expertise: [
+    "Full-Stack Development",
+    "Microservices Architecture",
+    "Systems Architecture",
+    "Enterprise Application Development",
+    "Cloud Infrastructure",
+    "DevOps Automation",
+    "Technical Leadership"
+  ],
+
+  languages: [
+    "TypeScript",
+    "JavaScript",
+    "Python",
+    "PHP",
+    "SQL",
+    "HTML",
+    "CSS"
+  ],
+
+  frontend: {
+    frameworks: [
+      "Next.js",
+      "React",
+      "Angular",
+      "Vue.js"
+    ],
+    styling: [
+      "Tailwind CSS",
+      "Material UI",
+      "Bootstrap",
+      "Chakra UI"
+    ]
   },
+
+  backend: {
+    runtimes: [
+      "Node.js"
+    ],
+    frameworks: [
+      "Django",
+      "Django REST Framework",
+      "FastAPI",
+      "Express.js",
+      "Laravel",
+      "Flask"
+    ],
+    apiDesign: [
+      "REST APIs",
+      "GraphQL APIs",
+      "Webhooks",
+      "Third-Party Integrations",
+      "Event-Driven APIs"
+    ]
+  },
+
+  mobile: [
+    "React Native",
+    "Flutter"
+  ],
+
+  databases: [
+    "PostgreSQL",
+    "MySQL",
+    "MongoDB",
+    "SQLite"
+  ],
+
   architecture: [
     "Microservices",
-    "Serverless",
+    "Distributed Systems",
+    "Modular Monoliths",
+    "Multi-Tenant SaaS",
     "Event-Driven Systems",
-    "REST & GraphQL APIs",
-    "Single Page Applications (SPA)"
+    "Serverless Architecture",
+    "Offline-First Systems",
+    "Role-Based Access Control",
+    "Audit-Ready Systems"
   ],
-  cloudDevOps: ["AWS", "Firebase", "Docker", "CI/CD"],
-  affiliations: ["Devs & Graphics KE"],
-  currentlyLearning: ["Kubernetes", "AI Integrations", "Advanced DevSecOps"]
+
+  cloudDevOps: [
+    "Docker",
+    "GitLab CI/CD",
+    "GitHub Actions",
+    "Rancher",
+    "Nginx",
+    "Linux",
+    "AWS",
+    "Firebase"
+  ],
+
+  engineering: [
+    "System Design",
+    "Domain Modelling",
+    "Database Architecture",
+    "Application Security",
+    "Production Support",
+    "Observability",
+    "Performance Optimisation",
+    "Technical Documentation"
+  ]
 };
 ```
 
 ---
 
-## 📌 Areas of Interest
+## Areas of Focus
 
-* 🛠 Building Developer Tooling & APIs
-* 🌐 Civic Tech & Smart Infrastructure Solutions
-* 🧩 Automating Business Workflows
-* 🎓 Mentorship & Tech Leadership
-* 🤖 AI-Augmented Development
+### Microservices and Distributed Systems
 
----
+I design and implement production-ready microservices with clear service boundaries, independent deployment workflows, reliable inter-service communication, centralised authentication, observability, failure handling, and event-driven integration.
 
-## 🧠 Currently Learning
+My focus is not only on splitting applications into services. I design microservices around business domains, operational requirements, data ownership, scalability, deployment independence, and long-term maintainability.
 
-* 🔧   AWS | Docker 🐳 | Firebase | Flask
+### Product and Systems Architecture
 
----
+I design systems with well-defined domains, maintainable data models, secure access control, documented integration standards, deployment strategies, and clear technical boundaries.
 
-## 📊 GitHub Stats & Activity
+### Enterprise and Business Systems
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamomoro\&count_private=true\&theme=github-dark-blue\&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+I build and modernise ERP platforms, point-of-sale systems, workflow automation tools, operational management systems, reporting platforms, and institution-facing applications.
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamomoro\&count_private=true\&layout=compact\&langs_count=10\&hide=html)](https://github.com/iamomoro/github-readme-stats)
+### Backend Engineering and APIs
 
----
+I develop secure and high-performance backend systems using Django, Django REST Framework, FastAPI, Node.js, Express.js, Laravel, and Flask.
 
-## 🤝🏾 Connect with Me
+My API work includes authentication, authorisation, data validation, asynchronous processing, third-party integrations, webhooks, rate limiting, API versioning, documentation, and performance optimisation.
 
-<p align="center">
+### Analytics and Data Platforms
 
-<a href="https://twitter.com/bake_baller">
-  <img alt="Twitter" src="https://img.shields.io/twitter/follow/bake_baller?style=social">
-</a>
+I develop multi-channel analytics products, executive dashboards, reporting engines, data aggregation services, deterministic analytics workflows, and AI-assisted insights.
 
-<a href="https://www.instagram.com/iamomoroit/">
-  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-iamomoroit-black?style=flat-square&logo=instagram">
-</a>
+### Cloud and DevOps
 
-<a href="mailto:iamomoroit@gmail.com">
-  <img alt="Email" src="https://img.shields.io/badge/Email-iamomoroit@gmail.com-blue?style=flat-square&logo=gmail">
-</a>
+I create containerised environments, CI/CD pipelines, reverse proxy configurations, server deployment workflows, monitoring strategies, infrastructure automation, and production support processes.
 
-<br/>
+### AI-Augmented Engineering
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=iamomoro.iamomoro" alt="Visitor count" />
-<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30"/>
-
-</p>
+I use AI within structured software delivery workflows for requirements analysis, architecture, implementation, testing, documentation, data interpretation, and technical decision support.
 
 ---
 
-> “Build with intent. Architect with clarity. Ship with confidence.”
-> — **Elvis Omoro**
+## Products and Platforms
+
+My recent work includes systems across:
+
+* Social media analytics and reporting
+* Sports statistics and basketball intelligence
+* Enterprise resource planning
+* Point-of-sale and payment workflows
+* Digital media and continuous streaming
+* Civic technology and institutional platforms
+* Business process automation
+* Multi-tenant SaaS products
+* API-driven integration platforms
+* Data aggregation and reporting platforms
+
+---
+
+## Engineering Principles
+
+```text
+Design around the problem.
+Define clear system boundaries.
+Keep architecture understandable.
+Automate repeatable work.
+Protect data by default.
+Build for production.
+Document important decisions.
+Monitor what matters.
+```
+
+---
+
+## Currently Expanding
+
+* Kubernetes and container orchestration
+* Advanced DevSecOps
+* AI agents and grounded AI integrations
+* Distributed system reliability
+* Cloud observability
+* Data engineering
+* Intelligent reporting systems
+* Platform engineering
+
+---
+
+## GitHub Activity
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iamomoro\&theme=github-dark-blue\&hide_border=true)](https://git.io/streak-stats)
+
+[![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamomoro\&theme=github_dark)](https://github.com/iamomoro)
+
+[![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=iamomoro\&show_icons=true\&include_all_commits=true\&count_private=true\&theme=github_dark\&hide_border=true)](https://github.com/iamomoro)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamomoro\&layout=compact\&langs_count=10\&hide=html\&theme=github_dark\&hide_border=true)](https://github.com/iamomoro)
+
+---
+
+## Contact
+
+For software engineering, systems architecture, microservices, cloud infrastructure, product development, or technical consulting:
+
+[![Email](https://img.shields.io/badge/Email-iamomoroit%40gmail.com-blue?style=flat-square\&logo=gmail\&logoColor=white)](mailto:iamomoroit@gmail.com)
+
+---
+
+> Build with intent. Architect with clarity. Ship with confidence.
+>
+> Elvis Omoro
